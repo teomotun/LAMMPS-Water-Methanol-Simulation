@@ -1,0 +1,12 @@
+tolerance 2.0
+filetype pdb
+output water_box.pdb
+structure one_water.pdb
+   number 216
+   inside box -22 -10.5 -10.5 22 10.5 10.5
+end structure
+
+structure one_methanol.pdb
+   number 216
+   inside box -22 -10.5 -10.5 22 10.5 10.5
+end structure
