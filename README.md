@@ -11,7 +11,7 @@
 * We Can observe how atoms move in space and time. 
 * We can determine properties of unknown and known chemicals under extreme conditions of temperature or pressure.
 
-### WHAT is MOLECULAR DYNAMICS?
+### WHAT IS MOLECULAR DYNAMICS?
 * Way of determining trajectories of atoms and molecules by numerically solving Newton’s equation of motion for a system of interacting particles where forces between the particles and their potential energies are often calculated using interatomic potentials or molecular mechanics force fields.
 
 
