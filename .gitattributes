@@ -1,2 +1,2 @@
 *.lmp linguist-detectable=true
-*.lmp linguist-language=lmp
+*.lmp linguist-language=python
