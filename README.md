@@ -3,17 +3,9 @@
 
 ![Picture1.png](Picture1.png)
 
-### WHY STUDY WATER-ALCOHOL MIXTURES
+## BACKGROUND
 
-* Water-Alcohol mixtures are widely used in chemical engineering applications such as solvents for gums, resins, lacquers, varnishes and dyes. Modeling and quality control of industrial manufacturing processes require proper characterization of viscosity.
-
-### WHY MOLECULAR DYNAMICS?
-* We Can observe how atoms move in space and time. 
-* We can determine properties of unknown and known chemicals under extreme conditions of temperature or pressure.
-
-### WHAT IS MOLECULAR DYNAMICS?
-* Way of determining trajectories of atoms and molecules by numerically solving Newton’s equation of motion for a system of interacting particles where forces between the particles and their potential energies are often calculated using interatomic potentials or molecular mechanics force fields.
-
+Water-Alcohol mixtures are widely used in chemical engineering applications such as solvents for gums, resins, lacquers, varnishes and dyes. Modeling and quality control of industrial manufacturing processes require proper characterization of viscosity. Molecular Dynamics helps in observing how atoms move in space and time. We can determine properties of unknown and known chemicals under extreme conditions of temperature or pressure. MD Simulation is a way of determining trajectories of atoms and molecules by numerically solving Newton’s equation of motion for a system of interacting particles where forces between the particles and their potential energies are often calculated using interatomic potentials or molecular mechanics force fields.
 
 ## PROJECT DETAILS
 * Calculated self-diffusion coefficient, density and shear viscosity for a system consisting of 216 molecules of water and 216 molecules of methanol. A box of size 46 × 23 × 23 Å was used and the input file was generated with Avogadro.
